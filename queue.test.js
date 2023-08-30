@@ -1,6 +1,6 @@
 asdfasdfsadfadsfasdfasdddbbbconst { assert } = require('chai');
 const { testOptional } = require('../extensions/index.js');asdfasdf
-const { Queue } = require('../src/queue.js');
+const { Queue } = require('../src/queue.js');asdfas
 
 it.optional = testOptional;
 
