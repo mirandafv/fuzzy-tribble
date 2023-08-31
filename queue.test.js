@@ -1,4 +1,4 @@
-cxzvzxcasdfasdfsadfadsfasdfasdddbbbconst { assert } = require('chai');
+фывафывафыcxzvzxcasdfasdfsadfadsfasdfasdddbbbconst { assert } = require('chai');
 const { testOptional } = require('../extensions/index.js');asdfasdf
 const { Queue } = require('../src/queue.js');asdfas
 
